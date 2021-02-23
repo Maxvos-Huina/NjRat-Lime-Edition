@@ -1,2 +1,2 @@
 # NjRat-Lime-Edition
-NjRat Lime
+NjRat Lime Edition 0.8.0 + Binding NoIp
